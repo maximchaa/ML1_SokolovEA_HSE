@@ -1,2 +1,3 @@
-# ML1_SokolovEA_HSE
-My refreshed machine learning notebooks (did during summer 2020).
+# ML1 SokolovEA (HSE)
+
+*My refreshed machine learning notebooks on the Sokolov EA course (did during summer 2020)*.
